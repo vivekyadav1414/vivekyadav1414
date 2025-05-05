@@ -2,75 +2,53 @@
 <h3 align="center">💻 Android Developer | 🔥 Firebase Enthusiast | 🚀 Flutter Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Crafting+beautiful+Android+apps;Building+with+Firebase+%E2%9A%A1;Learning+Flutter+for+multi-platform+magic!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Android+Developer;Flutter+Learner;Loves+Building+Cool+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 👨‍💻 About Me
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/vivekyadav1414" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+- 🔭 I’m currently working on **Expense Tracker** – A complete admin panel to manage users, partners, services, inventory, and more.
+- 🌱 I’m currently learning **Flutter** & **Firebase Firestore (Advanced Level)**.
+- 💡 I love working on **Android Apps**, especially with **Firebase**, **Jetpack Libraries**, and **Clean Architecture**.
+- 📱 I’m building apps like **Expense Tracker**, **Restaurant Finder**, and **Service Booking Platforms**.
+- 💬 Ask me about **Android Development**, **Firebase Integration**, or **UI/UX design in XML**.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,flutter,dart,firebase,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Currently building: `BWA Admin App` for managing users, services, inventory, and more  
-- 🌱 Learning: `Flutter`, `AI-based Budget Analysis`, and `Firebase Firestore Advanced`  
-- 🧰 Focus: Android, Firebase, Custom Views, Clean UI/UX  
-- 🛠️ Tools I use daily: Android Studio, Git, Firebase, Figma  
-- 😄 Fun fact: I debug best with **coffee ☕ + lo-fi beats 🎶**
-
----
-
-### 🚀 Tech Stack
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,flutter,dart,firebase,git,github,vscode,figma&perline=6" />
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekyadav1414&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekyadav1414&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav1414&theme=radical" alt="Streak Stats" />
-  <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekyadav1414&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav1414&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📱 Projects I’m Proud Of
+### 📫 How to reach me
 
-| App Name           | Description                                         | Tech Used                  |
-|--------------------|-----------------------------------------------------|----------------------------|     |
-| 📊 Expense Tracker  | Daily/monthly expense manager with AI budgeting    | Android, Room, ML API      |
-| 🍽️ Restaurant Finder| Table booking app with live location & OTP login   | Android + Firebase + Maps  |
-
----
-
-### 🖼️ Just a Dev Thing...
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding GIF" />
-  <img src="https://media.giphy.com/media/26FPO6bH2xC2zXzWM/giphy.gif" width="360" alt="Android GIF" />
-</p>
+- ✉️ Email: [pcvivek4114@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 Portfolio: [Coming Soon or link to your hosted apps]
 
 ---
 
-<p align="center">
-  💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
-</p>
+### ⚡ Fun Fact
+
+> 💭 I debug better with **music 🎧**, and I never leave a screen without **dark mode** 😎.
 
 ---
 
 <!--
-✨ Created with ❤️ by ChatGPT for vivekyadav1414 – Customize your links above.
+✨ This profile README is made with ❤️ by ChatGPT for vivekyadav1414.
 -->
